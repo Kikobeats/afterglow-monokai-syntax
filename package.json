@@ -1,0 +1,11 @@
+{
+  "name": "afterglow-monokai-syntax",
+  "theme": "syntax",
+  "version": "0.12.16",
+  "description": "Afterglow Monokai syntax style for Atom",
+  "repository": "https://github.com/Kikobeats/afterglow-monokai-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
