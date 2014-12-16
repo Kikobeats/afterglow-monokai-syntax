@@ -1,6 +1,6 @@
 # Afterglow Monokai Syntax Theme for Atom
 
-![](demo.png)
+![](http://i.imgur.com/LokmVJ4.png)
 
 ## Install
 
