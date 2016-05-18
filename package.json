@@ -1,11 +1,24 @@
 {
   "name": "afterglow-monokai-syntax",
-  "theme": "syntax",
-  "version": "1.3.3",
   "description": "Afterglow Monokai syntax style for Atom",
-  "repository": "https://github.com/Kikobeats/afterglow-monokai-syntax",
-  "license": "MIT",
+  "version": "1.3.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kikobeats/afterglow-monokai-syntax.git"
+  },
+  "keywords": [
+    "afterglow",
+    "atom",
+    "monokai",
+    "syntax"
+  ],
   "engines": {
     "atom": ">0.50.0"
-  }
+  },
+  "license": "MIT",
+  "theme": "syntax",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/afterglow-monokai-syntax/issues"
+  },
+  "homepage": "https://github.com/Kikobeats/afterglow-monokai-syntax#readme"
 }
