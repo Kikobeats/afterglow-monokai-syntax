@@ -1,5 +1,7 @@
 # Afterglow Monokai Syntax Theme for Atom
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/afterglow-monokai-syntax.svg)](https://greenkeeper.io/)
+
 [![APM Status](https://img.shields.io/apm/dm/afterglow-monokai-syntax.svg?style=flat)](https://atom.io/packages/afterglow-monokai-syntax)
 [![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat)](https://www.gittip.com/Kikobeats/)
 
