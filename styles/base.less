@@ -175,6 +175,7 @@ atom-text-editor {
       &.syntax--begin,
       &.syntax--end {
         color: @light-gray-0;
+        font-style: normal;
       }
     }
 
@@ -265,6 +266,15 @@ atom-text-editor {
   &.syntax--separator {
     background-color: @middle-gray-1;
     color: @syntax-text-color;
+  }
+
+  &.syntax--parameters {
+    color: @syntax-color-modified;
+  }
+
+  &.syntax--brace {
+    color: @syntax-text-color;
+    font-style: normal;
   }
 }
 
